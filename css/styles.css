@@ -1,0 +1,21 @@
+.sidebar {
+  width: 166px;
+  float: left;
+  /* background-color: #F5F5F5; */
+}
+
+body {
+  background-color: #F5F5F5;
+}
+
+.sidebar-font {
+  font: sans-serif;
+  font-size: 12px;
+  padding-left: 20%;
+  line-height: 8px;
+}
+
+.top-nav {
+  float: right;
+  padding: 12px;
+}
